@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @amoakoh22
-- 👀 I’m interested in ...Data Science 
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...Python Project 
-- 📫 How to reach me ...+233(0)557248253
+- 👋 Hi there ! I'm @Samuel Amoakoh, a final year BSc Mathematics student and aspiring data scientist !
+  Using my math skills and passion for data analysis , I'm tackling real-world problems. 
+  Currently, I'm researching  household e-waste generation in Tarkwa, Ghana 🇬🇭. 
+  I built and validated a questionnaire using KoboToolbox  to understand disposal practices and improve e-waste management there ♻️.
+              TOP SKILLS
+- 👀 Data Analysis (tools: [Python], [R], [SPSS], [Excel]) 
+- 🌱 Questionnaire Design & Validation (KoboToolbox)- (JotForms)-(GoogleForms)-Other Open Data Kit(ODK)
+- 🌱 Machine Learning
+- 🌱 Statistical Modeling
+- 💞️ Let's collaborate! I'm always eager to learn more !
+- 📫 How to reach me >>> p.samuelamoakoh@gmail.com
 
 <!---
 amoakoh22/amoakoh22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
