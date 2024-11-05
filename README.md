@@ -1,7 +1,8 @@
-- 👋 Hi there ! I'm @Samuel Amoakoh, a final year BSc Mathematics student and aspiring data scientist !
+- 👋 Hi there ! I'm @Samuel Amoakoh, mathematics graduate and aspiring data scientist !
   Using my math skills and passion for data analysis , I'm tackling real-world problems. 
-  Currently, I'm researching  household e-waste generation in Tarkwa, Ghana 🇬🇭. 
+  Currently, I have research project investigating factors influencing household e-waste generation in Tarkwa using machine learning models. 
   I built and validated a questionnaire using KoboToolbox  to understand disposal practices and improve e-waste management there ♻️.
+
               TOP SKILLS
 - 👀 Data Analysis (tools: [Python], [R], [SPSS], [Excel]) 
 - 🌱 Questionnaire Design & Validation (KoboToolbox)- (JotForms)-(GoogleForms)-Other Open Data Kit(ODK)
