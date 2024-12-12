@@ -1,17 +1,48 @@
-- 👋 Hi there ! I'm @Samuel Amoakoh, mathematics graduate and aspiring data scientist !
-  Using my math skills and passion for data analysis , I'm tackling real-world problems. 
-  Currently, I have research project investigating factors influencing household e-waste generation in Tarkwa using machine learning models. 
-  I built and validated a questionnaire using KoboToolbox  to understand disposal practices and improve e-waste management there ♻️.
+# 👋 Hi there! I'm **Samuel Amoakoh**  
 
-              TOP SKILLS
-- 👀 Data Analysis (tools: [Python], [R], [SPSS], [Excel]) 
-- 🌱 Questionnaire Design & Validation (KoboToolbox)- (JotForms)-(GoogleForms)-Other Open Data Kit(ODK)
-- 🌱 Machine Learning
-- 🌱 Statistical Modeling
-- 💞️ Let's collaborate! I'm always eager to learn more !
-- 📫 How to reach me >>> p.samuelamoakoh@gmail.com
+Welcome to my GitHub space! I'm a **Mathematics Graduate** and a **Certified Data Scientist** who is passionate about leveraging mathematics, data science, and machine learning to solve real-world challenges.🚀  
 
-<!---
-amoakoh22/amoakoh22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 **Current Role**  
+I'm currently serving as a National Service Personnel (NSP) at the **Ministry of Environment, Science, Technology, and Innovation (MESTI)**, contributing to environmental sustainability initiatives and policy analysis.
+
+ ## 💼 **Notable Achievements**
+- **Research Project**: Successfully completed my thesis titled *"Investigating factors Affecting household e-waste Generation in Tarkwa Using Machine Learning Models."*  
+  - Designed and validated questionnaires using **KoboToolbox** to investigate disposal practices and improve e-waste management.
+  - Applied statistical and machine learning models for data analysis.
+- Contributed to projects that bridge environmental sustainability and data-driven solutions.
+
+---
+## 💡 **My Toolkit & Expertise**
+### 🔍 **Data Analysis & Visualization**
+- Python 🐍 | R 📊 | SPSS | Excel 📈  
+- Skilled in cleaning, exploring, and modeling datasets to uncover actionable insights.
+
+### 📜 **Questionnaire Design & Validation**  
+- Platforms: **KoboToolbox**, JotForm, Google Forms, ODK  
+- Developed and validated community-level questionnaires for large-scale surveys.  
+
+### 🤖 **Machine Learning & Statistical Modeling**  
+- Algorithms: Regression, Decision Trees, Neural Networks, and Clustering  
+- Tools: Scikit-learn, TensorFlow, and tidyverse.
+
+### 🌱 **Sustainable Waste Management**  
+- Applying advanced analytics to environmental and policy challenges.
+
+---
+
+## 💬 **Let’s Collaborate!**
+I’m always looking to connect and collaborate on exciting projects, especially in:  
+- Financial Analytics  
+- AI/ML Applications  
+- Statistical Modeling  
+- Environmental Sustainability  
+
+📫 **Reach me at:**  
+- **Email:** [p.samuelamoakoh@gmail.com](mailto:p.samuelamoakoh@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/samuel-amoakoh-740709216](https://www.linkedin.com/in/samuel-amoakoh-740709216)  
+- **GitHub:** [amoakoh22](https://github.com/amoakoh22)  
+
+---
+
+### 🌟 **"Mathematics is the poetry of logical ideas."** – Albert Einstein  
+Let’s solve problems, one equation, one dataset, and one insight at a time! 🚀  
