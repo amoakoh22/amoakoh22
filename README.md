@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Samuel Amoakoh**
 
-AI Expert | MSc Financial Engineering (in progress)
+**AI Expert** | **MSc Financial Engineering** (in progress)
 
 I design, deploy, and govern enterprise AI and automation systems that deliver measurable business impact. Currently deepening my expertise in quantitative finance, risk modelling, and financial analytics.
 
@@ -70,8 +70,9 @@ I design, deploy, and govern enterprise AI and automation systems that deliver m
 
 ## 📊 GitHub Activity
 
-https://github-readme-stats.vercel.app/api?username=amoakoh22&show_icons=true&theme=default
-https://github-readme-stats.vercel.app/api/top-langs/?username=amoakoh22&layout=compact
+![Samuel's GitHub Stats](https://github-readme-stats-gamma-eight-19.vercel.app/api?username=amoakoh22&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-gamma-eight-19.vercel.app/api/top-langs/?username=amoakoh22&layout=compact&theme=radical)
 
 ---
 
